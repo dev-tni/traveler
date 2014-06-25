@@ -20,4 +20,4 @@ $ bundle exec rake db:setup
 
 TRANSNET *Ruby is Ideal*
 
-http://www.transnet.ne.jp/
+https://www.transnet.ne.jp/
