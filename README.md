@@ -1,8 +1,8 @@
 #Traveler
 
-This is the sample application for [Our Columns](http://www.transnet.ne.jp/column/).
+This is the sample application for [our columns](https://www.transnet.ne.jp/column/).
 
-travelerは、[弊社Webサイトに掲載しているコラム](http://www.transnet.ne.jp/column/)の内容をお試しいただくためのサンプルアプリケーションです。
+travelerは、[弊社Webサイトに掲載しているコラム](https://www.transnet.ne.jp/column/)の内容をお試しいただくためのサンプルアプリケーションです。
 
 
 ## Get Started
